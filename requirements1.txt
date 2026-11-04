@@ -1,0 +1,9 @@
+streamlit
+crewai[tools]
+python-dotenv
+pypdf
+python-docx
+crewai
+crewai-tools
+langchain-groq
+crewai[google-genai]
